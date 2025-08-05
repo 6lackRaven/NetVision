@@ -5,7 +5,7 @@
 </p>
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
-[![Version](https://img.shields.io/badge/version-v2.1.0-green.svg)](#)
+[![Version](https://img.shields.io/badge/version-v1.0-green.svg)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/6lackRaven/NetVision?style=social)](https://github.com/6lackRaven/GhostEyes)
 
