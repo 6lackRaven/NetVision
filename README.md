@@ -44,7 +44,7 @@ sudo apt install gcc libpcap-dev libjansson-dev python3-pip
 ```bash
 # Clone repository
 git clone https://github.com/6lackRaven/NetVision.git
-cd NetVisionLite
+cd NetVision
 
 # Install Python requirements
 pip install -r requirements.txt
@@ -97,7 +97,7 @@ sudo ./netvision.py -l my_alerts.json
 
 ## 📂 Project Structure
 ```
-NetVisionLite/
+NetVision/
 ├── netvision.py          # Main CLI runner
 ├── sniffer/              # C-based packet capture
 │   └── sniffer.c         # Raw packet capture
@@ -163,7 +163,7 @@ Contributions are welcome!
 Please follow the established code style & be respectful.
 
 
-3 ❤️ Support / Donations
+❤️ Support / Donations
 
 If you’d like to support continued open-source development:
 ```
