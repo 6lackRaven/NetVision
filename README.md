@@ -10,7 +10,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/6lackRaven/NetVision?style=social)](https://github.com/6lackRaven/GhostEyes)
 
 > **Author:** 6lackRaven
-> **Status:** Active • Stable • Async-first
+> **Status:** Active 
 > **Docs:** See [`DOCUMENTATION.md`](DOCUMENTATION.md)
 ---
 
@@ -128,7 +128,7 @@ Comply with applicable laws (e.g., CFAA, GDPR).
 
                                                                                                                                                                                                           ---
 
-#$ 📜 License
+$ 📜 License
 
 MIT — see the LICENSE file.
 
@@ -163,7 +163,7 @@ Contributions are welcome!
 Please follow the established code style & be respectful.
 
 
-#3 ❤️ Support / Donations
+3 ❤️ Support / Donations
 
 If you’d like to support continued open-source development:
 ```
