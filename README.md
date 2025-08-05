@@ -1,26 +1,24 @@
 # NetVision - Lightweight Network Security Monitor
 
 <p align="center">
-  <img src="https://i.imgur.com/your_logo.png" alt="NetVisionLite Banner" width="600">
-</p>
-
-<p align="center">
   <b>Real-time Network Threat Detection</b>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Version-1.0-blue">
-  <img src="https://img.shields.io/badge/License-MIT-green">
-  <img src="https://img.shields.io/badge/Python-3.8+-yellow">
-  <img src="https://img.shields.io/badge/Platform-Linux-lightgrey">
-</p>
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
+[![Version](https://img.shields.io/badge/version-v2.1.0-green.svg)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/6lackRaven/NetVision?style=social)](https://github.com/6lackRaven/GhostEyes)
 
+> **Author:** 6lackRaven
+> **Status:** Active • Stable • Async-first
+> **Docs:** See [`DOCUMENTATION.md`](DOCUMENTATION.md)
 ---
 
 **NetVision** is a lightweight, high-performance network security monitoring tool designed for real-time threat detection. Combining a C-based packet sniffer with Python analysis, it provides immediate identification of suspicious network activity.
 
 Created by **6lackRaven**
 
+---
 ## 🚀 Features
 
 - **High-Performance Sniffing**: C-based packet capture for maximum efficiency
@@ -45,7 +43,7 @@ sudo apt install gcc libpcap-dev libjansson-dev python3-pip
 ### Setup
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/NetVisionLite.git
+git clone https://github.com/6lackRaven/NetVision.git
 cd NetVisionLite
 
 # Install Python requirements
@@ -116,9 +114,63 @@ NetVisionLite/
 └── README.md             # This file
 ```
 
-## 🤝 Contributing
-Contributions are welcome! Please open an issue first to discuss proposed changes.
+---
 
-## 📜 License
-Distributed under the MIT License. See `LICENSE` for more information.
+## ⚠️ Disclaimer
+
+NetVision is intended strictly for authorized security testing and educational use.
+By using this tool, you accept full responsibility for your actions.
+
+Only scan targets you own or have explicit written permission to test.
+
+Comply with applicable laws (e.g., CFAA, GDPR).
+                                                                                                     The author(s) are not liable for misuse or damage.
+
+                                                                                                                                                                                                          ---
+
+#$ 📜 License
+
+MIT — see the LICENSE file.
+
+
+---
+
+💬 Contact
+                                                                                                     - Author: 6lackRaven
+- Email:  harleystanislas.raven@gmail.com
+- Telegram: Thereal6lackRaven
+- Facebook: Harley Stanislas
+
+
+---
+
+## 🤝 Contributing
+Contributions are welcome! 
+
+1. Fork the repo
+
+
+2. Create a feature branch: git checkout -b feature/your-feature
+
+
+3. Commit clean, tested code
+
+
+4. Open a PR with a clear description
+
+
+
+Please follow the established code style & be respectful.
+
+
+#3 ❤️ Support / Donations
+
+If you’d like to support continued open-source development:
 ```
+- Bitcoin (BTC):   bc1qvc8y7z2jguzr7e3fvwyf09l3me94mqk06nz3hj
+- Ethereum (ETH):  0x58bC732d4279321F1E4A8cA57eD2Ad16ed5A2e15
+- USDT (ERC20):    0x58bC732d4279321F1E4A8cA57eD2Ad16ed5A2e15
+- BNB (BEP20):     0x58bC732d4279321F1E4A8cA57eD2Ad16ed5A2e15
+- Solana (SOL):    E7x7ak3H6ob2eHbgsbfgVXpEJyVqMPUFPBtkuEUKj2cq
+```
+Thank you for supporting independent security tooling 🙏
